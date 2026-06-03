@@ -1,12 +1,6 @@
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="JS" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techicons.dev" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-</table>
+# 🛠️ My Best Languages
+
+
+| HTML5 | CSS3 | JavaScript |
+| :---: | :---: | :---: |
+| <img src="./html5.png" width="60" height="60"> | <img src="./css3.png" width="60" height="60"> | <img src="./js.png" width="60" height="60"> |
