@@ -1,2 +1,1 @@
-![My Top Languages](https://vercel.app)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
