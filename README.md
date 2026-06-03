@@ -1,5 +1,2 @@
-### 🛠️ My Tech Stack
+![My Top Languages](https://vercel.app)
 
-![HTML](https://shields.io)
-![JavaScript](https://shields.io)
-![CSS](https://shields.io)
